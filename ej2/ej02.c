@@ -2,7 +2,8 @@
 
 /* Ejercicio 2
  *              Crear programa en C cuyo proceso principal imprima los valores 
- *              de forma secuencial, de un arreglo, cargado (con valores aleatorios)
+ *              de forma secuencial, de un arreglo (cuya longitud se pasa por parámetro)
+ *              cargado (con valores aleatorios)
  *              por un hilo de dicho proceso. Al finalizar, el proceso principal debe
  *              mostrar los valores de dicho arreglo. 
  */
